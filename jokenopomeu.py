@@ -1,5 +1,6 @@
 import random
 # escolhi a linguagem Python
+#Trabalho feito por: Kaique Santana De Almeida
 #serve para o usuario fazer sua escolha
 def escolha_usuario():
     opcao = input("Escolha uma das opções: pedra, papel ou tesoura: ").lower()
